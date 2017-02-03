@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./commandLine.sh 3
+./commandLine.sh 3 7
 RET_VAL=$?
 
 if [ $RET_VAL -eq 0 ]; then
